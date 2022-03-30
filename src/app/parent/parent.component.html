@@ -1,0 +1,6 @@
+<h1>I'm the parent</h1>
+<h2>Today is : {{ todayIs | date:'long'}}</h2>
+<app-child class="myStyle" [messageFromParent]="message">
+  <h3>{{ 'Son' | greeting}}</h3>
+  <p question>How are you son?</p>
+</app-child>

@@ -1,0 +1,19 @@
+:host{
+  display: block;
+  padding: 20px;
+  border: 2px solid black;
+}
+
+h1{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: brown;
+}
+h2{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: cadetblue;
+}
+
+p{
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(42, 85, 170);
+}
